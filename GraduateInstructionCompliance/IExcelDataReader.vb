@@ -1,0 +1,4 @@
+﻿
+Interface IExcelDataReader
+
+End Interface
